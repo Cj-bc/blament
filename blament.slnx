@@ -2,4 +2,5 @@
   <Folder Name="/Blament/">
     <Project Path="Blament/blament.csproj" />
   </Folder>
+  <Project Path="Blament.Test/Blament.Test.csproj" />
 </Solution>
